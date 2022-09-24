@@ -31,12 +31,8 @@ $(document).ready(function(){
 
 });
 
-function on() {
-    document.getElementById("overlay").style.display = "block";
-}
-function on() {
-    document.getElementById("overlay").style.display = "block";
-}
+
+
 
 
 
